@@ -1,1 +1,2 @@
-console.log(`Works`)
+import 'reflect-metadata'
+import './bootstrap'
